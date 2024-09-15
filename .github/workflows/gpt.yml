@@ -35,10 +35,8 @@ jobs:
     - name: Run list.py
       run: |
         python3 listquchong.py gpt.txt
-    - name: Commit and push result.txt
-      run: |
-        git config --global ziluepan "github-actions"
-        git config --global ziluepan@foxmail.com "github-actions@github.com"
-        git add gpt.txt
-        git commit -m "Add apt.txt from scheduled job"
-        git push
+    - name: Upload gpt file as artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: gpt links
+        path: gpt.txt
