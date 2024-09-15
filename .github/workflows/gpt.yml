@@ -25,9 +25,13 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         # 如果有 requirements.txt 文件，取消下一行注释
-        # pip install -r requirements.txt
+         pip install -r requirements.txt
 
-    # 运行你的 main.py 文件
+    # 运行你的 fofa.py 文件
     - name: Run Python script
       run: |
         python3 fofa.py -k ' "gpt-4o" && icon_hash="1871189255" ' --outputname gpt --endcount 25
+    # 运行 list.py 文件
+    - name: Run list.py
+      run: |
+        python3 listquchong.py gpt.txt
