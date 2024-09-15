@@ -18,7 +18,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
-        python-version: '3.x'  # 这里可以指定 Python 版本，比如 3.9
+        python-version: '3.8'  # 这里可以指定 Python 版本，比如 3.9
 
     # 安装项目的依赖项（如果有）
     - name: Install dependencies
