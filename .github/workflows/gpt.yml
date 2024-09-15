@@ -3,7 +3,7 @@ name: gpt
 on:
   schedule:
     # 使用cron表达式来设置定时任务，这个例子是在每天的中午12点运行
-    - cron: '35 6 * * *'
+    - cron: '37 18 * * *'
 
 jobs:
   run-script:
