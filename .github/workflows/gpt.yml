@@ -1,8 +1,9 @@
 name: gpt
 
 on:
-  workflow_dispatch:  # 手动触发
+  schedule:
     # 使用cron表达式来设置定时任务，这个例子是在每天的中午12点运行
+    - cron: '0 4 * * *'
         
 
 jobs:
