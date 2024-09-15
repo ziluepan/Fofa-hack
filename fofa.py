@@ -155,7 +155,7 @@ def main():
         print(_("未输入搜索内容"))
         exit(0)
     if args.authorization:
-        # 用户输入了Authorization值
+        # 用户输入了Authorization值。
         # print("用户输入的Authorization值为:", args.authorization)
         config.AUTHORIZATION = args.authorization
 
