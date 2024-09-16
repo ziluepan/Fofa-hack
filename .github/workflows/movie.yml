@@ -37,7 +37,11 @@ jobs:
     - name: Run list.py
       run: |
         python3 listquchong.py movie.txt
-    #运行   
+    # 移动生成的 gpt.txt 文件到 fancy 目录
+    - name: Move movie.txt to fancy directory
+    run: |
+      mv movie.txt fancy/
+    #推送更改   
     - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
