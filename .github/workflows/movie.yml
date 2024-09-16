@@ -39,8 +39,8 @@ jobs:
         python3 listquchong.py movie.txt
     # 移动生成的 gpt.txt 文件到 fancy 目录
     - name: Move movie.txt to fancy directory
-    run: |
-      mv movie.txt fancy/
+      run: |
+        mv movie.txt fancy/
     #推送更改   
     - name: Commit and push changes
       env:
