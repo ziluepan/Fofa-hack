@@ -37,6 +37,10 @@ jobs:
     - name: Run list.py
       run: |
         python3 listquchong.py gpt.txt
+    # 移动生成的 gpt.txt 文件到 fancy 目录
+    - name: Move gpt.txt to fancy directory
+      run: |
+        mv gpt.txt fancy/    
     #运行   
     - name: Commit and push changes
       env:
