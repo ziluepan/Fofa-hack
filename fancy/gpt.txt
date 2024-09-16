@@ -1,3 +1,5 @@
+http://8.210.105.110:12345
+http://sample.keycanai.com:8001
 http://43.153.100.183:5000
 http://101.126.11.101:9009
 http://38.165.32.3:6060
@@ -33,7 +35,3 @@ http://47.93.3.24:8080
 http://47.236.224.38
 http://oxs.opao.xyz
 https://oxs.opao.xyz
-http://47.116.16.145:10492
-http://88.214.22.60:9999
-https://mason.songyun.work
-https://62.234.29.153
