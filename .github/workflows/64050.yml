@@ -39,7 +39,7 @@ jobs:
         python3 json_extract.py xt.txt
         python3 listquchong.py xtip.txt
         chmod +x iptest
-        ./iptest -file xtip.txt  -tls true -speedtest 0 -max 100  -outfile "xt_ip.csv"
+        ./iptest -file=xtip.txt  -tls=true -speedtest=0 -max=100  -outfile="xt_ip.csv"
         python3 csv-ip.py
     #运行   
     - name: Commit and push changes
