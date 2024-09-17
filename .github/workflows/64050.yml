@@ -39,10 +39,7 @@ jobs:
         python3 s-fofa.py xt.txt
         python3 listquchong.py xt.txt
         ./iptest -file xt.txt  -tls true -speedtest 0 -max 100  -outfile "xt_ip.csv"
-    # 移动生成的 gpt.txt 文件到 fancy 目录
-    - name: Move gpt.txt to fancy directory
-      run: |
-        mv gpt.txt fancy/    
+        python3 csv-ip.py
     #运行   
     - name: Commit and push changes
       env:
@@ -50,10 +47,10 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add -f fancy/gpt.txt
+        git add -f fancy/xt.txt
         if git diff --cached --quiet; then
           echo "No changes to commit"
         else
-          git commit -m 'Add gpt.txt'
+          git commit -m 'Add xt.txt'
           git push
         fi
