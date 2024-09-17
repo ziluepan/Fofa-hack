@@ -36,7 +36,9 @@ jobs:
     # 运行 list.py 文件
     - name: Run list.py
       run: |
-        python3 listquchong.py gpt.txt
+        python3 s-fofa.py xt.txt
+        python3 listquchong.py xt.txt
+        ./iptest -file xt.txt  -tls true -speedtest 0 -max 100  -outfile "xt_ip.csv"
     # 移动生成的 gpt.txt 文件到 fancy 目录
     - name: Move gpt.txt to fancy directory
       run: |
