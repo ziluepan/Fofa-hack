@@ -14,7 +14,7 @@ def main():
         return
 
     input_file = sys.argv[1]
-    output_file = "xt.txt"
+    output_file = "xtip.txt"
 
     try:
         with open(input_file, 'r', encoding='utf-8') as file, open(output_file, 'w', encoding='utf-8') as out_file:
