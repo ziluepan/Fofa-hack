@@ -27,7 +27,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         # 如果有 requirements.txt 文件，取消下一行注释
-         pip install -r requirements.txt
+        pip install -r requirements.txt
 
     # 运行你的 fofa.py 文件
     - name: Run Python script
