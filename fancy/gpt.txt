@@ -1,3 +1,8 @@
+http://47.106.140.227
+https://xs1.zhiyunai168.com
+http://xs1.zhiyunai168.com
+http://23.94.204.167:12345
+http://43.137.10.2:8090
 https://tcmii.cn
 http://www.tcmii.cn
 https://www.tcmii.cn
@@ -32,7 +37,3 @@ http://74.48.74.91:8084
 http://43.153.100.183:5000
 http://47.251.116.210
 http://170.106.189.152:5000
-https://ai.aionline.fun
-http://124.222.94.189:888
-http://sample.keycanai.com:8001
-https://aca.loong.help
