@@ -1,3 +1,4 @@
+http://94.74.64.147:9999
 https://ztqai.cn
 http://ztqai.cn
 http://gpt-academic.aiearth.dev
