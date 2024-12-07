@@ -1,3 +1,4 @@
+http://1.14.197.180:6066
 https://academic.try-chatgpt.fun
 https://gpt.maning.com.cn:9000
 http://8.134.175.121
