@@ -1,3 +1,4 @@
+https://154.201.79.104
 http://154.9.246.245:3100
 https://152.136.159.29
 http://xueshu.vveai.com
@@ -35,5 +36,3 @@ https://154.201.79.179
 http://120.55.181.238:3002
 http://116.82.183.135:4050
 http://1.14.197.180:6066
-https://academic.try-chatgpt.fun
-https://gpt.maning.com.cn:9000
