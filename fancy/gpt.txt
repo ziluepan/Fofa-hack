@@ -1,3 +1,5 @@
+https://24.233.1.2
+http://xueshu.lyzplus.cn
 https://154.201.79.104
 http://154.9.246.245:3100
 https://152.136.159.29
@@ -29,10 +31,3 @@ http://xueshu.speedcow.top
 http://icustudy.cn
 https://develop.agent-matrix.com
 https://open.6988688.xyz
-http://open.6988688.xyz
-https://oxs.opao.xyz
-http://oxs.opao.xyz
-https://154.201.79.179
-http://120.55.181.238:3002
-http://116.82.183.135:4050
-http://1.14.197.180:6066
