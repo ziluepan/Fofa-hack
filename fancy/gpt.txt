@@ -1,3 +1,13 @@
+http://101.43.104.25:9090
+http://43.153.113.218:5003
+http://open.6988688.xyz
+https://ai.aplap.org
+http://ztqai.cn
+https://ztqai.cn
+https://xues.aicivi2.fun
+http://162.43.55.75
+http://gptac.heumc.cc
+https://119.8.120.53
 https://47.236.224.38
 https://101.201.173.237
 https://academic.baicaigpt.com
@@ -12,7 +22,6 @@ https://1.12.64.148
 http://47.251.116.210
 https://deeme-a.hf.space
 https://www.mstsc.site
-https://xues.aicivi2.fun
 https://gpt.san.fson.cc
 http://gpt.san.fson.cc
 http://124.222.94.189:888
@@ -21,15 +30,3 @@ https://173.249.201.185
 http://159.138.241.106:443
 https://science01.a1r.cc
 http://science01.a1r.cc
-http://94.74.64.147:9999
-http://74.48.74.91:8084
-http://38.55.203.218:8001
-http://45.77.220.129:666
-https://ijocta.org
-http://170.106.189.152:5000
-http://135.237.81.98:5000
-https://aca.168369.xyz
-http://132.226.234.156:9999
-http://academic.pin114.com
-https://academic.pin114.com
-http://47.106.140.227
