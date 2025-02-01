@@ -1,3 +1,4 @@
+http://74.48.74.91:8084
 http://38.55.203.218:8001
 http://magic-academic.com.cn
 https://magic-academic.com.cn
@@ -36,4 +37,3 @@ https://play.bytegooty.com
 https://auth.gpt-academic.top
 http://88.214.22.60:9999
 http://97.64.22.138:443
-http://173.249.201.185:8989
