@@ -1,7 +1,7 @@
-http://111.73.178.49:7014
-http://180.76.50.145
 https://test.nai3.cc
 http://test.nai3.cc
+http://111.73.178.49:7014
+http://180.76.50.145
 http://auth.gpt-academic.top
 http://ai.aplap.org
 https://ai.aplap.org
