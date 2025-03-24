@@ -1,3 +1,5 @@
+http://118.26.111.142:9009
+https://gpt.pving.com
 https://academic.gptpanda.net
 https://154.9.228.117
 https://8.152.194.198
