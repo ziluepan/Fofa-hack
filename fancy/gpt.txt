@@ -1,3 +1,6 @@
+http://43.134.188.92:8032
+http://acad.aijuhe.top
+https://acad.aijuhe.top
 http://xueshu.lyzplus.cn
 https://47.79.93.101
 https://xueshu.lyzplus.cn
@@ -6,9 +9,7 @@ https://auth.gptacademic.cn
 http://43.153.59.249:3388
 https://www.hrbaq.com
 https://172.245.81.204
-http://acad.aijuhe.top
 https://8.152.194.198
-https://acad.aijuhe.top
 https://154.8.162.103
 http://112.86.205.58:1314
 http://94.74.64.147:9999
@@ -34,6 +35,3 @@ http://1.94.252.40:12303
 http://23.145.120.186:12303
 http://156.245.201.234:12303
 http://45.142.166.135:12303
-http://20.163.10.102:3001
-http://43.156.63.110:443
-https://23.145.120.186
